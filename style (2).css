@@ -1,0 +1,31 @@
+img{
+    width: 480px; 
+    height: 400px;
+   
+
+
+
+}
+
+div{
+
+    width: 500px;
+    height: 750px;
+
+    background-color: rgb(229, 231, 130);
+}
+
+div{
+   
+    width: 500px;
+    height: 750px;
+
+    background-color: rgb(229, 231, 130);
+    border: 2px solid black;
+    float: left;
+    margin: 50px;
+    padding: 30px;
+}
+
+
+
